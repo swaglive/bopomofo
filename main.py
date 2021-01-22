@@ -1,4 +1,4 @@
-from loader import words
+from .loader import words
 import sys
 
 
